@@ -1,0 +1,298 @@
+# sebastian_github
+<!DOCTYPE html>
+
+
+<html>
+<head>
+<meta name"viewport" content"width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+ <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+<style>
+
+
+
+
+
+
+nav {
+  text-align: center;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  left: 600px;
+  display: block;
+  width: 20%;
+  border: 4px dotted rgb(80,252,255);
+  background-color: #e2cef8;
+}
+
+
+table, th, td {
+  border: 2px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #e79cf1;
+}
+
+
+h1.center {
+  text-shadow: 2px 2px 5px white;
+  text-align: center;
+  color: rgb(3, 79,221);
+  font-size: 200%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h2.left {
+  text-shadow: 2px 2px 5px white;
+  text-align: left;
+  color: dark green;
+  font-size: 150%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+body {
+  background-color: rgb(80, 252, 255);
+}
+
+
+div.first {
+  background: rgba(255, 255, 255);
+  padding: 30px;
+}
+
+
+div.second {
+  background: rgba(243, 116, 175, 0.3);
+  padding: 30px;
+}
+
+
+div.third {
+  background: rgba(0, 0, 128, 0.4);
+  padding: 30px;
+}
+
+
+div.fourth {
+  background: rgba(255, 255,255);
+  padding: 30px;
+}
+
+
+#ptext{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
+  line-height: 1.5;
+  letter-spacing: 1px;
+}
+
+
+#paux{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
+  line-height: 2;
+  letter-spacing: 1.2px;
+  color: #b3ffd9;
+}
+
+
+ol li {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
+  line-height: 1.5;
+  letter-spacing: 1px;
+  color:#002266;
+  }
+ 
+  a:hover {
+  background-color: #bfbfbf;
+}
+ 
+  .inlinePos{
+  display: inline-block;
+  position: relative;
+}
+
+
+.inlinePosImg{
+  display: inline-block;
+  position: absolute;
+  right:40px;
+  padding: 30px;
+}
+</style>
+
+
+<title>
+Mi deporte favorito
+</title>
+
+
+</head>
+
+
+<body>
+<div class=" container-fluid first">
+<h1 class="center">EL FUTBOL MI DEPORTE FAVORITO</h1>
+<section>
+<header>
+<h2 class="left">Bienvenidos a "Mi deporte favorito y yo" un sitio web en
+        donde voy a estar compartiendoles mis experiencias y como se juega al futbol.
+ Acá vas a ver muchas cosas sobre el futbol, aventuras que tuve, mis goles y de más.</h2>
+<p id="ptext">El fútbol es un deporte colectivo donde dos equipos se enfrentan y tratan de introducir un balón en la meta del equipo rival.Para ello, los jugadores se sirven de cualquier parte del cuerpo, menos los brazos y manos. El enfrentamiento entre equipos, llamado partido, tiene lugar en una cancha de césped de grandes dimensiones.</p>
+</header>
+<nav>
+
+
+<ul>
+  <li id="ptext"><a href="#Que es el futbol">Que es el futbol</a></li>
+  <li id="ptext"><a href="#Reglamentos basicos el futbol">Reglamentos basicos del futbol</a></li>
+  <li id="ptext"><a href="#Mis goles">Mis goles</a></li>
+  <li id="ptext"><a href="#Que es un mundial">Que es un mundial</a></li>
+  <li id="ptext"><a href="#Que es una copa america">Que es una copa america</a></li>
+  <li id="ptext"><a href="#Que es una eurocopa">Que es una urocopa</a></li>
+
+</ul>
+
+
+</nav>
+
+
+
+
+</div>
+
+
+</section>
+<section>
+<div class="row second">
+<article>
+<h2 class="left" id="¿Que es el futbol?">¿Que es el futbol?</h2>
+<p id="ptext">Es un deporte practicado al aire libre en el que dos equipos con once jugadores cada uno, deben tomar posesión de un balón pateandolo. El objetivo es que el balón entre en la portería contraria (gol). El equipo que mayor cantidad de goles realice, será el equipo triunfador.El término proviene del inglés football (pie y pelota), por lo que también se le conoce como balompié. Los juegos de fútbol también pueden disputarse entre equipos de un mismo país (competiciones nacionales de clubes, como en el fútbol colombiano, se tiene la division mayor del futbol colombiano DIMAYOR), entre equipos de distintos países (competiciones internacionales de clubes o selecciones nacionales) como en el Mundial de Fútbol.</p>
+
+
+    <img src="https://definicion.de/wp-content/uploads/2009/03/futbolistas.jpg" class="imagen" alt="joven pateando el balon" style="width: 180px"></img>
+    <p>Mas informacion en el siguiente enlace</p>
+    <a href="https://www.todamateria.com/futbol/">Enlace</a>
+
+
+</article>
+<article>
+<h2 class="left" id="Reglamentos basicos del futbol">Reglamentos basicos del futbol</h2>
+<p id="ptext">Como deporte universal, el fútbol requiere ciertas normas para garantizar la coherencia y la equidad durante todos los partidos, independientemente de dónde se jueguen o del nivel de competición. Estas reglas forman la base del juego y crean un entendimiento que conduce a una experiencia mucho más agradable tanto para los espectadores como para los jugadores. Conocer y respetar estas reglas es una parte esencial de este popular deporte. Además, es la clave para disfrutarlo en todo su esplendor. Las reglas del fútbol establecen la forma en que los jugadores deben comportarse, las decisiones de los árbitros y las dimensiones del campo. También, el número de jugadores en el campo, cómo se toca el balón, cómo se marcan los goles y cómo se maneja el tiempo. Al respetar estas normas, los equipos pueden disfrutar de la mejor experiencia posible en cada partido.</p>
+ 
+  <img src="https://th.bing.com/th/id/OIP.004ETN1A5e76dA7hC26ZPAHaEK?pid=ImgDet&rs=1" class="imagen" alt="albitro sacando la roja" style="width: 180px"></img>
+  <p>Mas informacion en el siguiente enlace</p>
+  <a href="https://reglasdelfutbol.club/11-reglas-de-futbol/">Enlace</a>
+
+
+<h2 class="left" id="Mis goles">Mis goles</h2>
+<p id="ptext">cuando te apasionas por este deporte y llevas la capacidad de estar en la posicion de delantero (centro delantero) te diviertes tanto que empiezas a crear inimaginables jugadas e ilimitada soluciones para resolver un partido en las cuales aparecen los goles, los goles son un fundamento importante en medio de un partido en el cual se decide quien ganara y ahi me siento bien en esta posicion.</p>
+ 
+  <img src="C:\Users\ESTTEBAN MARQUEZ\Downloads\WhatsApp Image 2023-09-16 at 8.55.18 PM.jpeg" class="imagen" alt="yo celebrando un gol" style="width: 250px"></img>
+  <p>Mas informacion en el siguiente enlace</p>
+  <a href="https://drive.google.com/file/d/1hhQPnhu6fn4B6SvgS5KIXAaB_D4fjM7M/view?usp=sharing">Enlace</a>
+
+
+<h2 class="left" id="Que es un mundial">Que es un mundial</h2>
+<p id="ptext">Es el torneo más importante a nivel mundial y se celebra cada cuatro años. Participan selecciones nacionales de diferentes países y compiten por el título de campeón del mundo. La Copa del Mundo de la FIFA es seguida por millones de fanáticos en todo el mundo y cuenta con una larga historia llena de momentos icónicos</p>
+
+
+<img src="https://4.bp.blogspot.com/_6dqTI8uiGIg/TNvkzEMOb8I/AAAAAAAAAcc/Di_OGar3qKc/s1600/CopadelMundo.jpg" class="imagen" alt="logo del mundial" style="width: 180px"></img>
+<p>Mas informacion en el siguiente enlace</p>
+<a href="https://www.mundodeportivo.com/uncomo/deporte/articulo/mundial-de-futbol-historia-y-por-que-se-celebra-52923.html">Enlace</a>
+
+
+<h2 class="left" id="Que es una copa america">Que es una copa america</h2>
+<p id="ptext">Es el torneo de selecciones más antiguo del mundo y se celebra cada cuatro años en América del Sur. Participan las selecciones nacionales de los países sudamericanos, así como invitados de otras confederaciones. La Copa América es una competición llena de tradición y rivalidad, y ha visto a algunas de las mejores generaciones de futbolistas sudamericanos enfrentarse en emocionantes partidos.</p>
+
+
+<img src="https://th.bing.com/th/id/OIP.kplYRrAXS92tctdwWQxflwHaE8?pid=ImgDet&rs=1" class="imagen" alt="logo de la copa america" style="width: 180px"></img>
+<p>Mas informacion en el siguiente enlace</p>
+<a href="https://culturarecreacionydeporte.gov.co/es/bogotanitos/recreaccion/la-copa-america-de-futbol">Enlace</a>
+
+
+<h2 class="left" id="Que es una eurocopa">Que es una eurocopa</h2>
+<p id="ptext">Es el torneo de selecciones más importante de Europa y se celebra cada cuatro años. Participan las selecciones nacionales de los países europeos y compiten por el título continental. La Eurocopa cuenta con una gran tradición y ha sido escenario de momentos memorables en la historia del fútbol europeo.</p>
+
+
+  <img src="https://i1.wp.com/static.sky.it/images/skysport/it/calcio/2020/03/17/europei-champions-europa-league-nuove-date-uefa/03_euro_ansa.jpg" class="imagen" alt="logo de la eurocopa" style="width: 180px"></img>
+  <p>Mas informacion en el siguiente enlace</p>
+  <a href="https://futbol-pro.com/diccionario-futbol/eurocopa/">Enlace</a>
+
+<article>
+    <div class="row second">
+        <div class="col-sm-6">
+            <h2 class="left" id="Mejores futbolistas">Mejores futbolistas</h2>
+            <p id="ptext">Algunos de los mejores futbolistas del mundo son los siguientes:</p>
+            <ul>
+                <li id="ptext">Cristiano Ronaldo</li>
+                <li id="ptext">Lionel Messi</li>
+                <li id="ptext">Pele</li>
+                <li id="ptext">Johan Cruyff</li>
+                <li id="ptext">Ronaldo Nazario</li>
+            </ul>
+        </div>
+        <div class="col-sm-3">
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+          <!-- Indicators -->
+          <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>
+            <li data-target="#myCarousel" data-slide-to="4"></li>
+          </ol>
+     
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner">
+            <div class="item active">
+              <img src="https://th.bing.com/th/id/R.d0efc59d532428b969ac3a611db9eb6a?rik=XjXyVPQzLSujwg&riu=http%3a%2f%2f2.bp.blogspot.com%2f-BnJqpo8DJHk%2fUOmf9elav-I%2fAAAAAAAAML8%2f8fJWdAXZ9Nk%2fs1600%2fPortugal-vs-Turkey-cristiano-ronaldo-1499617-1076-1372.jpg&ehk=a%2frLRiuV7F9Uq2jGaqhF1YNUoXLLnrkmoKuw0oJ4kcg%3d&risl=&pid=ImgRaw&r=0" alt="Cristiano ronaldo" style="width:100%; height: 300px;">
+            </div>
+            <div class="item">
+              <img src="https://i.pinimg.com/originals/1d/8e/38/1d8e384e2120ff164cb07d8973aa9faa.jpg" alt="Lionel messi" style="width:100%; height: 300px;">
+            </div>
+            <div class="item">
+              <img src="https://musicalibre.uy/wp-content/uploads/2018/06/pele-480x640.jpg" alt="pele" style="width:100%; height: 300px;">
+            </div>
+            <div class="item">
+              <img src="https://th.bing.com/th/id/OIP.nPwyR4Q5UmFh9dxw2W7b0AHaJz?pid=ImgDet&rs=1" alt="Johan Cruyff" style="width:100%; height: 300px;">
+            </div>
+            <div class="item">
+              <img src="https://th.bing.com/th/id/R.6dd52bb489b75d92eb2a1a102b6327bc?rik=ZZ1%2b%2bak6WzUH6w&riu=http%3a%2f%2fenterateahora.com.mx%2fwp-content%2fuploads%2f2015%2f07%2fbigstock-BARCELONA-SPAIN-MAY-Br-28224638.jpg&ehk=eqpEtYU%2bgsd3lGzX3cYhP5nJhib9E1U1NKlM5940e6w%3d&risl=&pid=ImgRaw&r=0" alt="Ronaldo Nazario" style="width:100%; height: 300px;">
+            </div>
+        </div>
+
+
+           <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a>
+    </div>
+</article>
+ 
+</table>
+
+
+<footer>
+<div class="fourth">
+<p id="ptext">Autor: Sebastian Marquez Baron<br>
+<a href="mailto:sebastianbaronmarquez@gmail.com">sebastianbaronmarquez@gmail.com</a><br>
+institucion: skolmy
+</p>
+</div>
+</footer>
+</body>
+</html>
